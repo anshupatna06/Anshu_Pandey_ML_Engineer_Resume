@@ -2,7 +2,7 @@
 
 This repository contains my latest resume and highlights of my core projects.
 
- 🚀 Featured Projects
+ # 🚀 Featured Projects
 # 🧠 DSA Analytics & Drift Detection System
 
 Production analytics platform tracking real coding activity.
