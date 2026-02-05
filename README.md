@@ -2,7 +2,7 @@
 
 This repository contains my latest resume and highlights of my core projects.
 
-### 🚀 Featured Projects
+ 🚀 Featured Projects
 # 🧠 DSA Analytics & Drift Detection System
 
 Production analytics platform tracking real coding activity.
@@ -16,6 +16,8 @@ Production analytics platform tracking real coding activity.
 🔗 Repo: https://github.com/anshupatna06/DSA-Analytic-System
 
 🔗 Live Demo: https://huggingface.co/spaces/anshupatna06/dsa-analytic-system
+
+
 
 # 📄 LLM-RAG Document QA
 
