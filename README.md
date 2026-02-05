@@ -2,10 +2,6 @@
 
 This repository contains my latest resume and highlights of my core projects.
 
-# 📄 Resume
-
-👉 Download Resume
-
 # 🚀 Featured Projects
 🧠 DSA Analytics & Drift Detection System
 
